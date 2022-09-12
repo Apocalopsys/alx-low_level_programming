@@ -66,5 +66,4 @@ A C program that prints exactly <em>"and that piece of art is useful" - Dora Kor
 <ul>
 <li>You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts</li>
 <li>Your program should return 1 </li>
-<li>Your program should compile without any warnings when using the <em>-Wall gcc</em> option.</li>
-</ul>
+<li>Your program should compile without any warnings when using the <em>-Wall gcc</em> option.</li></ul>
